@@ -42,7 +42,7 @@ O projeto é um projeto Java padrão (configurado para Eclipse, como indicam os 
 ### Saída Esperada
 
 Ao executar a classe `Main`, a seguinte saída será exibida no console, demonstrando que cada objeto executa apenas a ação para a qual foi designado:
-FX: Enviando documento: Conteúdo para operação de I/O 
-SP: Imprimindo documento: Conteúdo para operação de I/O 
-MP: Digitalizando documento: Conteúdo para operação de I/O 
-MP: Xerocando documento: Conteúdo para operação de I/O
+<br>FX: Enviando documento: Conteúdo para operação de I/O 
+<br>SP: Imprimindo documento: Conteúdo para operação de I/O 
+<br>MP: Digitalizando documento: Conteúdo para operação de I/O 
+<br>MP: Xerocando documento: Conteúdo para operação de I/O
